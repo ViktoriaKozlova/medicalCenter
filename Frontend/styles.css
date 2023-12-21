@@ -1,0 +1,119 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* білий колір фону */
+  color: #000000; /* зелений колір тексту */
+}
+
+header {
+  background-color: #ffffff;
+
+  text-align: center;
+}
+
+nav {
+  background-color: #008000; /* зелений колір фону меню */
+}
+h1 {
+  color: #008000;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+.tab {
+  width: 1000px;
+  height: 40px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: rgb(140, 240, 145);
+  text-align: center;
+}
+nav li {
+  margin: 0;
+  padding: 1em;
+}
+section.center-description {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2em;
+}
+
+.center-info {
+  flex: 1;
+}
+
+.center-image img {
+  width: 700px;
+  height: auto;
+}
+
+nav a {
+  text-decoration: none;
+  color: #ffffff; /* білий колір тексту меню */
+}
+
+nav a:hover {
+  font-weight: bold;
+}
+
+section {
+  padding: 2em;
+}
+
+footer {
+  background-color: #008000; /* зелений колір підвалу */
+  padding: 1em;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.element {
+  width: 100px;
+  height: 40px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+#filter {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.place_for_search {
+  padding: 8px;
+  font-size: 16px;
+}
+
+.button_for_turn_back,
+.button_for_search {
+  background-color: #008000; /* зелений колір кнопок */
+  color: #ffffff; /* білий колір тексту кнопок */
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button_for_turn_back {
+  margin-left: 5px;
+}
+
+.button_for_turn_back:hover,
+.button_for_search:hover {
+  background-color: #006400; /* темно-зелений колір при наведенні на кнопку */
+}
+.PostUpdateDelete {
+  display: block;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,78 @@
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\appsettings.Development.json
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\appsettings.json
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\medical Center.exe
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\medical Center.deps.json
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\medical Center.runtimeconfig.json
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\medical Center.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\medical Center.pdb
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Azure.Core.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Azure.Identity.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Humanizer.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\MySqlConnector.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.CodeDom.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Memory.Data.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\repositories\medicalCenter\medical Center\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.csproj.AssemblyReference.cache
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.AssemblyInfoInputs.cache
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.AssemblyInfo.cs
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.csproj.CoreCompileInputs.cache
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.MvcApplicationPartsAssemblyInfo.cs
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.MvcApplicationPartsAssemblyInfo.cache
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets\msbuild.medical Center.Microsoft.AspNetCore.StaticWebAssets.props
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets\msbuild.build.medical Center.props
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.medical Center.props
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.medical Center.props
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets.pack.json
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets.build.json
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\staticwebassets.development.json
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\scopedcss\bundle\medical Center.styles.css
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.csproj.CopyComplete
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.dll
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\refint\medical Center.dll
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.pdb
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\medical Center.genruntimeconfig.cache
+C:\repositories\medicalCenter\medical Center\obj\Debug\net7.0\ref\medical Center.dll

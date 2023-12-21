@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Висновки про пацієнтів</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+    <form id="filter">
+      <div>
+        <input id="sex1" name="ID" type="checkbox" value="ID" />
+        <label for="sex1">ID</label>
+        <input id="sex1" name="ПІБ Лікаря" type="checkbox" value="ПІБ Лікаря" />
+        <label for="sex1">ПІБ Лікаря</label>
+
+        <input
+          id="sex2"
+          name="ПІБ Пацієнта"
+          type="checkbox"
+          value="ПІБ Пацієнта"
+        />
+        <label for="sex2">ПІБ Пацієнта</label>
+      </div>
+
+      <form>
+        <input type="text" name="text" class="search" />
+        <input type="submit" name="submit" class="submit" value="Search" />
+      </form>
+    </form>
+    <section class="center-description">
+      <table id="getCons">
+        <tr>
+          <td class="tab">ID</td>
+          <td class="tab">Інформація</td>
+          <td class="tab">ПІБ Лікаря</td>
+          <td class="tab">ПІБ Пацієнта</td>
+          <td class="tab">Дата Прийому</td>
+          <td class="tab">Час Прийому</td>
+        </tr>
+      </table>
+    </section>
+    <script src="./service/viewCons.js"></script>
+    <script src="./controllers/search.js"></script>
+  </body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Створення висновків про пацієнтів</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+                <li><a href="search.html">Знайти висновок</a></li>
+               <li><a href="deleteCons.html">Видалити висновок</a></li>
+               <li><a href="doctorGet.html">Лікар</a></li>
+               <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+<h1>Введіть інформацію про висновок</h1>
+<div class=" PostUpdateDelete"> 
+
+    <form id="add-cons-form">
+        <label for="POST-idConclusion"> idConclusion:</label>
+        <input class="window" required id="POST-idConclusion" name="idConclusion" /><br />
+        <label for="POST-date">date:</label>
+        <input class="window" required id="POST-date" name="date" /><br />
+        <label for="POST-information">information:</label>
+        <input class="window" required id="POST-information" name="information" /><br />
+
+        <label for="POST-reception">reception:</label>
+        <input
+          class="window"
+          required
+          id="POST-reception"
+          name="reception"
+        /><br />
+        <label for="POST-diseaseHistory">  diseaseHistory:</label>
+        <input class="window" required id="POST-diseaseHistory" name="diseaseHistory" /><br />
+
+        <input class="but" type="submit" value="Save" />
+      </form>
+
+
+
+
+
+
+
+</form>
+</div>
+</div>
+
+
+<script src="./service/cons.js"></script>
+<script src="./controllers/consController.js"></script>
+
+</body>
+</html>
+
+

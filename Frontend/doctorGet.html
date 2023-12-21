@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Висновки про пацієнтів</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="postDoctor.html">Додати лікаря</a></li>
+        <li><a href="putDoctor.html">Змінити інформацію про лікаря</a></li>
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+    <section class="center-description">
+      <table id="getDoctor">
+        <tr>
+          <td class="tab">idDoctor</td>
+          <td class="tab">fullName</td>
+          <td class="tab">birthday</td>
+          <td class="tab">login</td>
+          <td class="tab">password</td>
+          <td class="tab">phone</td>
+          <td class="tab">email</td>
+          <td class="tab">workSchedule</td>
+        </tr>
+      </table>
+    </section>
+    <script src="./service/doctor.js"></script>
+    <script src="./controllers/doctorController.js"></script>
+  </body>
+</html>

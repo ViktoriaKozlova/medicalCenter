@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Приймоми</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="#">Послуги</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="receptionPost.html">Додати прийому</a></li>
+        <li><a href="receptionDelete.html">Видалити прийом</a></li>
+      </ul>
+    </nav>
+
+    <section class="center-description">
+      <table id="getReception">
+        <tr>
+          <td class="tab">idReception</td>
+          <td class="tab">date</td>
+          <td class="tab">time</td>
+          <td class="tab">visit</td>
+          <td class="tab">user</td>
+          <td class="tab">serviceId</td>
+          <td class="tab">doctorId</td>
+        </tr>
+      </table>
+    </section>
+
+    <script src="./service/rec.js"></script>
+    <script src="./controllers/recController.js"></script>
+  </body>
+</html>

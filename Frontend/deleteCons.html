@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Видалення висновків про пацієнтів</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="search.html">Знайти висновок</a></li>
+        <li><a href="postCons.html">Створити висновок</a></li>
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+    <h1>Введіть ідентифікатор висновку для видалення</h1>
+    <div class="PostUpdateDelete">
+      <form id="delete-cons-form">
+        <label for="DELETE-idConclusion"> idConclusion:</label>
+        <input
+          class="window"
+          required
+          id="DELETE-idConclusion"
+          name="idConclusion"
+        /><br />
+        <input class="but" type="submit" value="Save" />
+      </form>
+    </div>
+
+    <script src="./service/cons.js"></script>
+    <script src="./controllers/consController.js"></script>
+  </body>
+</html>

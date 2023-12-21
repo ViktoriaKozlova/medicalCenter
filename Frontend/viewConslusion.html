@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Висновки про пацієнтів</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="search.html">Знайти висновок</a></li>
+        <li><a href="postCons.html">Створити висновок</a></li>
+        <li><a href="deleteCons.html">Видалити висновок</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+    <section class="center-description">
+      <table id="getCons">
+        <tr>
+          <td class="tab">ID</td>
+          <td class="tab">Інформація</td>
+          <td class="tab">ПІБ Лікаря</td>
+          <td class="tab">ПІБ Пацієнта</td>
+          <td class="tab">Дата Прийому</td>
+          <td class="tab">Час Прийому</td>
+        </tr>
+      </table>
+    </section>
+    <script src="./service/viewCons.js"></script>
+    <script src="./controllers/viewController.js"></script>
+  </body>
+</html>

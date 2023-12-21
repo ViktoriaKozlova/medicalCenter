@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Зміна послуг</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li> 
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="deleteService.html">Видалити послугу</a></li>
+        <li><a href="putService.html">Змінити послугу</a></li>
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+<h1>Введіть інформацію для зміни послуги</h1>
+<div class=" PostUpdateDelete"> 
+    <form id="update-service-form">
+        <label for="PUT-idService"> idService:</label>
+        <input class="window" required id="PUT-idService" name="idService" /><br />
+        <label for="PUT-nameService">nameService:</label>
+        <input class="window" required id="PUT-nameService" name="nameService" /><br />
+        <label for="PUT-price">price:</label>
+        <input class="window" required id="PUT-price" name="price" /><br />
+    
+        <input class="but" type="submit" value="Save" />
+      </form>
+</form>
+</div>
+</div>
+<script src="./service/service.js"></script>
+<script src="./controllers/serviceController.js"></script>
+</body>
+</html>

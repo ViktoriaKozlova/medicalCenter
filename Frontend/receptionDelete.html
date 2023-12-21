@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Видалення прийома</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="#">Послуги</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="serviceGet.html">Послуги</a></li>
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="receptionPost.html">Додати прийому</a></li>
+
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+    <h1>Введіть ідентифікатор прийома для видалення</h1>
+    <div class="PostUpdateDelete">
+      <form id="delete-reception-form">
+        <label for="DELETE-idReception"> idreception:</label>
+        <input
+          class="window"
+          required
+          id="DELETE-idReception"
+          name="idReception"
+        /><br />
+        <input class="but" type="submit" value="Save" />
+      </form>
+    </div>
+
+    <script src="./service/rec.js"></script>
+    <script src="./controllers/recController.js"></script>
+  </body>
+</html>

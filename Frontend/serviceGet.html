@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="uk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Медичний Центр</title>
+  </head>
+  <body>
+    <header>
+      <h1>Послуги медичного центру</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="home.html">Головна</a></li>
+        <li><a href="viewConslusion.html">Висновки про пацієнтів</a></li>
+        <li><a href="postService.html">Додати послугу</a></li>
+        <li><a href="deleteService.html">Видалити послугу</a></li>
+        <li><a href="putService.html">Змінити послугу</a></li>
+        <li><a href="doctorGet.html">Лікар</a></li>
+        <li><a href="receptionGet.html">Прийоми</a></li>
+      </ul>
+    </nav>
+
+    <section class="center-description">
+      <table id="getService">
+        <tr>
+          <td class="tab">IdService</td>
+          <td class="tab">NameService</td>
+          <td class="tab">Price</td>
+        </tr>
+      </table>
+    </section>
+    <script src="./service/service.js"></script>
+    <script src="./controllers/serviceController.js"></script>
+  </body>
+</html>
